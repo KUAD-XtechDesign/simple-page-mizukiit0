@@ -2,7 +2,7 @@ body{
   font-family: "Helvetica Neue",Arial,"Hiragino Kaku Gothic ProN","Hiragino Sans",Meiryo,sans-serif;
   margin: 0;
   padding: 20px;
-  background-color: #ddd;
+  background-color: #0f667c;
   line-height: 1.8;
 }
 
@@ -12,16 +12,17 @@ img{
 }
 
 img.frame{
-  border: 1px solid #ccc;
+  border: 1px solid #dddddd;
 }
 
 #container{
   max-width: 600px;
   margin: 30px auto;
+  color: #dddddd;
 }
 
 .info{
-  background-color: #fff;
+  background-color: #dddddd
   padding: 20px;
   margin-bottom: 10px;
   border-radius: 5px;
@@ -30,9 +31,9 @@ img.frame{
 .name{
   margin-bottom: 10px;
   padding-bottom: 10px;
-  font-size: 1.2em;
-  border-bottom: 1px solid #ddd;
-  color: #008080;
+  font-size: 2.4em;
+  border-bottom: 1px solid #1ac4bb;
+  color: #1ac4bb;
 }
 
 .btns{
@@ -40,7 +41,7 @@ img.frame{
 }
 
 .btns .btn{
-  color: #666;
+  color: #1ac4bb;
 }
 
 .btns .next{
